@@ -1,0 +1,3 @@
+Q. In the Windows portable executable (PE) format, what do the magic signature values "MZ" stand for?
+
+A. Mark Zbikowski
